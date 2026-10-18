@@ -3,7 +3,7 @@
 ### AI Student | Machine Learning | Computer Vision | Intelligent Applications
 
 <p align="left">
-  <a href="https://github.com/SUMAIRDERO7"><img src="https://img.shields.io/badge/GitHub-SUMAIRDERO7-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/SUMAIRDERO7"><img src="https://img.shields.io/badge/GitHub-SUMAIRDERO62-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/sumair-ahmed-dero-70ba852a0"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://sumairahmedportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
@@ -208,56 +208,56 @@ A personal portfolio with project presentation, technical background, and an AI-
 
 **Focus:** AI assistant · Responsive UI · Portfolio engineering · Personal branding
 
-[Visit Live Portfolio →](https://sumairahmedportfolio.netlify.app) · [View Repository →](https://github.com/SUMAIRDERO7/sumair-ahmed-dero-portfolio)
+[Visit Live Portfolio →](https://sumairahmedportfolio.netlify.app) · [View Repository →](https://github.com/SUMAIRDERO62/sumair-ahmed-dero-portfolio)
 
 ### 🟢 Face Recognition Attendance System
 A practical attendance application combining face recognition, SQLite, Streamlit, duplicate prevention, and testing.
 
 **Focus:** Face recognition · Computer vision · SQLite · Data integrity
 
-[View Repository →](https://github.com/SUMAIRDERO7/face-recognition-attendance-system)
+[View Repository →](https://github.com/SUMAIRDERO62/face-recognition-attendance-system)
 
 ### 💬 Memory Chat — Token-Budgeted AI
 A conversational AI project exploring memory, personas, streaming responses, context visualization, and token budgets.
 
 **Focus:** Conversational AI · Context management · Streaming · User experience
 
-[View Repository →](https://github.com/SUMAIRDERO7/memory-chat-token-budgeted-ai)
+[View Repository →](https://github.com/SUMAIRDERO62/memory-chat-token-budgeted-ai)
 
 ### 📚 Studyforge AI
 A full-stack learning platform concept with authentication, quizzes, AI assistance, and an engaging study workflow.
 
 **Focus:** Full-stack development · Learning technology · AI integration
 
-[View Repository →](https://github.com/SUMAIRDERO7/Studyforge-AI)
+[View Repository →](https://github.com/SUMAIRDERO62/Studyforge-AI)
 
 ### 🔍 AI Code Review Bot
 An automated code-review tool using AST-based analysis, quality scoring, and HTML reports.
 
 **Focus:** Static analysis · Developer tooling · Code quality · Automated reports
 
-[View Repository →](https://github.com/SUMAIRDERO7/-AI-Powered-Code-Review-Bot)
+[View Repository →](https://github.com/SUMAIRDERO62/-AI-Powered-Code-Review-Bot)
 
 ### 🎙️ Speech Emotion Recognition
 Deep learning for audio emotion prediction using a CNN-LSTM architecture.
 
 **Focus:** Audio classification · Deep learning · CNN-LSTM · Applied AI
 
-[View Repository →](https://github.com/SUMAIRDERO7/speech-emotion-recognition)
+[View Repository →](https://github.com/SUMAIRDERO62/speech-emotion-recognition)
 
-> Explore more work on my [GitHub repositories](https://github.com/SUMAIRDERO7?tab=repositories).
+> Explore more work on my [GitHub repositories](https://github.com/SUMAIRDERO62?tab=repositories).
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUMAIRDERO7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="Sumair's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMAIRDERO7&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Sumair's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SUMAIRDERO62&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="Sumair's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMAIRDERO62&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Sumair's top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SUMAIRDERO7&theme=tokyonight&hide_border=true" alt="Sumair's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=SUMAIRDERO62&theme=tokyonight&hide_border=true" alt="Sumair's GitHub streak" />
 </p>
 
 ---
