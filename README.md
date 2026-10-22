@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/sumair-ahmed-dero-70ba852a0">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://sumairahmedportfolio.netlify.app">
+  <a href="https://sumair-ahmed-dero-ai-journey.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
