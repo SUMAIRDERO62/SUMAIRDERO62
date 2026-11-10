@@ -115,7 +115,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumair-ahmed-dero-70ba852a0"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://sumairahmedportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sumair-ahmed-dero-ai-journey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:sumair.ahmed.dero@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
