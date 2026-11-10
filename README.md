@@ -122,7 +122,6 @@
 ## 🎯 Goals
 
 - Graduate as a strong, practical AI engineer and researcher
-- Graduate as a strong, practical AI engineer and researcher
 - Build reliable, production-oriented AI applications
 - Improve MLOps, cloud architecture, APIs, and deployment skills
 - Explore explainable and responsible AI
@@ -135,11 +134,9 @@ Internships, final-year project collaboration, research discussions, freelance A
 
 ## 📚 Current Learning Direction
 
-- Build reliable, production-oriented AI applications
-- Improve MLOps, cloud architecture, APIs, and deployment skills
-- Explore explainable and responsible AI
-- Contribute to open source and collaborate with developers worldwide
-- Share practical knowledge through projects, documentation, and technical discussions
+- Azure AI services, MLOps, model monitoring, and cloud deployment
+- Better evaluation, testing, documentation, and reproducibility for AI systems
+- Research-oriented workflows for NLP, computer vision, and generative AI
 
 ## 🤝 Let's Connect
 
